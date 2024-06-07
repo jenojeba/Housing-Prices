@@ -1,0 +1,1 @@
+The dataset is available in https://www.canva.com/link?target=https%3A%2F%2Fwww.kaggle.com%2Fc%2Fhouse-prices-advanced-regression-techniques%2Fdata&design=DAFpRxy47kU&accessRole=viewer&linkSource=document
